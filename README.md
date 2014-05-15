@@ -3,7 +3,7 @@ JPTabViewController
 
 ![alt tag](https://raw.github.com/Jean-PhilippeDESCAMPS/JPTabViewController/master/demo.gif)
 
-Français
+##### Français
 
 JPTabViewController est un composant graphique permettant de réaliser sur iOS un Tab Fragment Android.
 
@@ -28,7 +28,7 @@ Simplicité d'intégration : initialisation avec un tableau de controllers.
 
 ```
 
-日本語
+##### 日本語
 
 JPTabViewControllerをiOSタブアンドロイドフラグメントを達成するためのグラフィカルコンポーネントです。
 
@@ -53,7 +53,7 @@ JPTabViewControllerをiOSタブアンドロイドフラグメントを達成す�
 
 ```
 
-English
+##### English
 
 JPTabViewController is an iOS graphical component for achieving a Android Tab Fragment.
 
